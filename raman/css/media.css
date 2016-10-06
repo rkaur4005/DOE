@@ -1,0 +1,42 @@
+@media screen and (max-width: 991px) {
+	.welcome-md{
+		display:none;
+	}
+	.welcome-xs{
+		display:block !important;
+	}
+	.welcome-xs h3{
+		font-size:22px !important ;
+	}
+	.create-xs{
+		padding-top:20px;
+		padding-bottom:0px;
+		display:block !important;
+		margin:0px;
+	}
+	.login-sec{
+		margin-top:5px !important;
+	}
+	header .border-grey{
+		border:0px ;
+	}
+	.container{
+		padding:25px !important;
+		padding-left:30px !important;
+		padding-right:30px !important;
+	}
+	.banner{
+		display:none;
+	}
+	.login-sec{
+		min-height:550px;
+	}
+	.col-md-9{
+		float:left !important;
+		width:100%;
+		margin-top:25px;
+	}
+	.margtop25{
+		margin-top:25px;
+	}
+}

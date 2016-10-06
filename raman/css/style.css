@@ -1,0 +1,82 @@
+img{
+	width:100%;
+}
+a{
+	text-decoration:underline;
+	color:grey;
+}
+h3{
+	margin-top:0px;
+}
+footer{
+	border-top:1px solid #7a7a7a;
+}
+
+footer a{
+	text-decoration:none;
+}
+.padding15{
+	padding:15px;
+}
+.pad10{
+	padding:10px;
+}
+.border-grey{
+	border:1px solid #7a7a7a;
+}
+.padding25{
+	padding:25px;
+}
+.btn-sign{
+	padding-left:25px;
+	padding-right:25px;
+}
+.bg-grey{
+	background-color:#cdcdcd;
+}
+.banner-style{
+	padding:35px;
+	padding-bottom:55px;
+}
+.welcome-xs{
+	display:none;
+}
+.welcome-md{
+	padding-left:25px;
+}
+.create-xs{
+	display:none;	
+	}
+.login-sec{
+	margin-top:15px;
+}
+.btn-sign{
+	width:100%;
+}
+.select-btn{
+	padding-left:25px;
+	padding-right:25px;
+}
+.select-sec{
+	padding:20px;
+	padding-top:15px;
+}
+.login-sec{
+	min-height:550px;
+}
+#accordion a{
+	text-decoration:none !important;
+}
+#accordion a:hover{
+	text-decoration:none !important;
+	color:grey;
+}
+th span{
+	font-weight:normal;
+}
+td span{
+	color:grey;
+}
+.saddress{
+	padding:20px;
+}
